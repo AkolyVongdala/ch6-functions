@@ -8,7 +8,7 @@
 
 
 # Print the number of letters in your name
-
+# Akoly was here.
 
 # Create a variable `now.doing` that is your name followed by "is programming!" 
 # (use the `paste()` function)
